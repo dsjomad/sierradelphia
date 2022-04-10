@@ -24,9 +24,11 @@ url: "https://dsjomad.github.io" # the base hostname & protocol for your site, e
 
 # Build settings
 markdown: kramdown
-theme: minima
+# Removed minima theme since it is now a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
