@@ -22,6 +22,20 @@ url: "https://dsjomad.github.io" # the base hostname & protocol for your site, e
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer.
+author: Daniel
+
+# New fields not defaulted by Jekyll-new with the minima theme
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: Company Name, Inc.
+copyright: DSJOMAD, LLC
+# title-logo is a new field that, when used, displays a logo
+# instead of custom text. Ideally, image is 50px high and takes up 
+# minimal horizontal space. Tested with a new root “images” folder e.g.:
+# tiltle-logo: /images/my-logo.png (or JPG, etc.)
+title-logo: /images/title-logo.png
+
 # Build settings
 markdown: kramdown
 # Removed minima theme since it is now a regular theme.
