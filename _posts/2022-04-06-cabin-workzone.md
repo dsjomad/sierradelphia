@@ -2,7 +2,7 @@
 layout: post
 title:  "Cabin Workzone"
 date:   2022-04-06 00:46:35 +0000
-categories: sierradelphia update
+categories: #sierradelphia update
 topic: "cabin"
 ---
 Welcome to our video diary from September 2020 to present day chronicling the building of our Texas Homestead.
